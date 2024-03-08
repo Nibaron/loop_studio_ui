@@ -1,6 +1,6 @@
 import { Logo } from '@/assets/icons';
 
-const Hero = () => {
+export const Hero = () => {
   return (
     <section id='hero'>
       {/**  Hero Container */}
@@ -44,5 +44,3 @@ const Hero = () => {
     </section>
   );
 };
-
-export default Hero;
