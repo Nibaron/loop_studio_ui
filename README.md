@@ -1,3 +1,5 @@
+![loopstudios](https://github.com/Nibaron/loop_studio_ui/assets/36547410/093dbc02-f0fd-4a51-9fa7-03ed8c18e48b)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
